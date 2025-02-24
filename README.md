@@ -2,4 +2,4 @@ Generate a ranked set of improv games from drop-down list of dates depending on 
 
 Highlight: Apply SUM of dynamic array column-by-column with embedded LAMBDA.
 
-BYCOL(Array, LAMBDA(Array, SUM(Array))(cell ref)
+BYCOL(NumericalRatings, LAMBDA(Array, SUM(Array))

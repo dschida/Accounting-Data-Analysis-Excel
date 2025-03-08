@@ -1,3 +1,5 @@
+Connect or see more: https://many.bio/KodiakDschida
+
 FILTER With a List.xlsx: Filter data using a list of conditions instead of typing a string of conditions. Makes it much easier to build and maintain workbooks using FILTER. Instead of changing all formulas, filter conditions can be updated by modifying lists.
 
 Highlight: Generate arrays of booleans, then collapse into one row / column for use in FILTER.
